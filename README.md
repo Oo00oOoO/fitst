@@ -1,2 +1,2 @@
 # fitst
-just for practice
+I create it just for practicing how to use git.
